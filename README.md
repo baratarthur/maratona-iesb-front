@@ -1,7 +1,13 @@
 ## Charts Documentation
 http://recharts.org/en-US/guide/getting-started
 
-##React default readme
+## Axios documentation
+https://www.npmjs.com/package/axios
+
+## React hooks introduction
+https://pt-br.reactjs.org/docs/hooks-intro.html
+
+# React default readme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
