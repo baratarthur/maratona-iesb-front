@@ -1,3 +1,8 @@
+## Charts Documentation
+http://recharts.org/en-US/guide/getting-started
+
+##React default readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
